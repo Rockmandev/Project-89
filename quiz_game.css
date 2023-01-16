@@ -1,0 +1,39 @@
+body {
+    background-color: red;
+    background-image:url("b1.jpg");
+    background-size:cover;
+}
+
+.player_login {
+    border-radius: 20px;
+    background-color: transparent;
+    padding:35;
+    padding-top: 0;
+    margin:10;
+    text-align: center;
+}
+
+.form {
+    margin-top:400;
+}
+
+#player_head {
+    color:black;
+    
+}
+
+.startbutton {
+    color: black;
+    border-radius:5px;
+    font-size: 32;
+    font-family: 'Brush Script MT', cursive;
+    padding: 6;
+    padding-right: 30;
+    padding-left:30;
+    
+   
+}
+
+.control {
+    text-align: center;
+}
